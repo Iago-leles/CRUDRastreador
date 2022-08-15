@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDRastreador", "CRUDRastreador\CRUDRastreador.csproj", "{C6ED42B5-3599-41A2-A005-AFD892BFDA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6ED42B5-3599-41A2-A005-AFD892BFDA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ED42B5-3599-41A2-A005-AFD892BFDA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ED42B5-3599-41A2-A005-AFD892BFDA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ED42B5-3599-41A2-A005-AFD892BFDA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F1E653-378B-4248-B532-CC71A9FF94DD}
+	EndGlobalSection
+EndGlobal
